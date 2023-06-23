@@ -51,6 +51,16 @@ Project Link: https://github.com/Suwentong/eps
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation](https://www.youtube.com/watch?v=KxqlJblhzfI&t=456s&ab_channel=Amigoscode)
+* [Spring Boot + Vue.js: Authentication with JWT & Spring Security](https://www.bezkoder.com/spring-boot-vue-js-authentication-jwt-spring-security/#Front-end_with_Vuejs_038_Vuex)
+* [Project Lombok](https://projectlombok.org)
+* [Vue Router](https://router.vuejs.org)
+* [Vuex](https://vuex.vuejs.org)
+* [VeeValidate](https://vee-validate.logaretm.com/v4/)
+* [Axios](https://axios-http.com/docs/intro)
+* [Font Awesome](https://fontawesome.com)
+* [Bootstrap Icons](https://icons.getbootstrap.com)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SpringBoot]: https://img.shields.io/badge/Spring_Boot-44355B?style=for-the-badge&logo=springboot&logoColor=6DB33F
