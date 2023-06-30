@@ -8,7 +8,7 @@
   <h3 align="center">Epidemic Prevention System of Shanghai University</h3>
 
   <p align="center">
-    Epidemic Prevention System of Shanghai University
+    Computer Science Bachelor's Degreee Graduation Project
     <br />
     <a href="https://github.com/Suwentong/eps"><strong>Explore the docs »</strong></a>
     <br />
