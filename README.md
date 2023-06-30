@@ -65,7 +65,7 @@ Project Link: https://github.com/Suwentong/eps
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [SpringBoot]: https://img.shields.io/badge/Spring_Boot-44355B?style=for-the-badge&logo=springboot&logoColor=6DB33F
 [Spring-url]: https://spring.io
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue.js]: https://img.shields.io/badge/Vue.js-1A8FE3?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org
-[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-221E22?style=for-the-badge&logo=postgresql&logoColor=4169E1
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-ECA72C?style=for-the-badge&logo=postgresql&logoColor=4169E1
 [Postgres-url]: https://postgresql.org
