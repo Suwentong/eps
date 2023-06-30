@@ -22,6 +22,23 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="538d8790-8a56-46be-b0fc-dffc98acfc7f" dataset="public.student" active-filter-id="" />
+    <filter-actions connection-id="538d8790-8a56-46be-b0fc-dffc98acfc7f" dataset="public.leave_school" active-filter-id="">
+      <filter id="0fed4bd1-8d0e-4ffe-9c1b-f356267dbc29" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
+    <filter-actions connection-id="538d8790-8a56-46be-b0fc-dffc98acfc7f" dataset="public._user" active-filter-id="ca14de38-7444-4a32-b77f-3422cef6bdaa">
+      <filter id="ca14de38-7444-4a32-b77f-3422cef6bdaa" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND" />
+    </filter-actions>
+    <filter-actions connection-id="538d8790-8a56-46be-b0fc-dffc98acfc7f" dataset="public._leave_school" active-filter-id="EMPTY_FILTER">
+      <filter id="2dc96af6-9d35-4c67-a2ff-6cf160eac360" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND" />
+    </filter-actions>
+    <filter-actions connection-id="538d8790-8a56-46be-b0fc-dffc98acfc7f" dataset="public._daily_report" active-filter-id="1093f55e-2ce9-43ab-bdba-7116b6319adb">
+      <filter id="1093f55e-2ce9-43ab-bdba-7116b6319adb" name="Filter" temporary="false" custom-name="false" type="basic" join-type="AND" />
+    </filter-actions>
+  </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
     <filters />
