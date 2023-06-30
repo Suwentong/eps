@@ -23,11 +23,11 @@ public class User implements UserDetails {
     @Id
     @GeneratedValue
     private Integer id;
+    private Integer studentId;
     private String username;
-    private String firstName;
-    private String lastName;
     private String email;
     private String password;
+    private String department;
 
     @Enumerated(EnumType.STRING)
     private Role role;
@@ -39,7 +39,7 @@ public class User implements UserDetails {
 
     @Override
     public String getUsername() {
-        return email;
+        return username;
     }
 
     @Override
@@ -61,4 +61,5 @@ public class User implements UserDetails {
     public boolean isEnabled() {
         return true;
     }
+
 }
