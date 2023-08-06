@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Suwentong/eps">
     <img src="images/shu_logo.png" alt="Logo" width="160" height="200">
   </a>
 
